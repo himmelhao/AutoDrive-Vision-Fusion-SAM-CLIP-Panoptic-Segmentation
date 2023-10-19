@@ -3,4 +3,4 @@
 	url = https://github.com/jul1u5/Segment-Anything-CLIP.git
 [submodule "MobileSAM"]
 	path = MobileSAM
-	url = git@github.com:ChaoningZhang/MobileSAM.git
+	url = https://github.com/ChaoningZhang/MobileSAM.git
